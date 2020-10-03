@@ -9,10 +9,11 @@
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
+        "copyleaks/php-plagiarism-checker": "@dev",
         "fabpot/goutte": "^4.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.1",
         "laravel/framework": "^7.24",
         "laravel/tinker": "^2.0"
     },
